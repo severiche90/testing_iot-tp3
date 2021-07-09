@@ -17,14 +17,14 @@ El tp consiste en implementar test de requerimientos de una lista que almacena p
 utilizando la tecnica de BDD.
 
 ### Requerimientos
-1- La lista debe almacenar pares clave:valor.  
-2- Las claves almacenadas en la lista deben ser unicas.  
-3- Las claves son cadenas de texto.  
-4- Se debe poder recuperar un valor a partir de una clave. 
-5- Se debe poder actualizar el valor asociado a una clave. 
-6- Se debe poder borrar una pareja a partir de la clave
-7- se debe poder recuperar la cantidad de elementos almacenados en la lista
-8- Se debe poder recuperar una lista ordenada de las claves almacenadas en la lista.
+* La lista debe almacenar pares clave:valor.  
+* Las claves almacenadas en la lista deben ser unicas.  
+* Las claves son cadenas de texto.  
+* Se debe poder recuperar un valor a partir de una clave. 
+* Se debe poder actualizar el valor asociado a una clave. 
+* Se debe poder borrar una pareja a partir de la clave
+* se debe poder recuperar la cantidad de elementos almacenados en la lista
+* Se debe poder recuperar una lista ordenada de las claves almacenadas en la lista.
 
 ### Herramientas utilizadas para la implememtacion
 * Nodejs 
