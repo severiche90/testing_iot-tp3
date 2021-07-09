@@ -1,6 +1,6 @@
 # Testing en sistemas de Internet De Las Cosas
 
-# Trabajo practico Nª3 
+## Trabajo practico Nª3 
 
 Autor:
 
@@ -12,12 +12,12 @@ Docentes:
 * Esp. Ing. Alejandro Permingeat.
 * Carlos Pantelides.  
 
-# Consignas:
+## Consignas:
 
 El tp consiste en implementar test de requerimientos de una lista que almacena pares clave:valor 
 utilizando la tecnica de BDD.
 
-# Requerimientos
+## Requerimientos
 
 1- La lista debe almacenar pares clave:valor.  
 2- Las claves almacenadas en la lista deben ser unicas.  
@@ -28,7 +28,7 @@ utilizando la tecnica de BDD.
 7- se debe poder recuperar la cantidad de elementos almacenados en la lista
 8- Se debe poder recuperar una lista ordenada de las claves almacenadas en la lista.
 
-# Herramientas utilizadas para la implememtacion
+## Herramientas utilizadas para la implememtacion
   
 * Nodejs 
 * nyc
